@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" alt="Algeria">
 </a>
 
-The `public contributions` and `private contributions` by users in Algeria on `2025/2/11 7:30 AM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
+The `public contributions` and `private contributions` by users in Algeria on `2025/2/11 7:35 AM UTC`. This list contains users from `Algeria` and cities `Algiers` `Oran` `Constantine` `Batna` `Djelfa` `Sétif` `Annaba` `Sidibelabbès` `Biskra` `Tiaret`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -383,7 +383,7 @@ There are `971 users`  in Algeria. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/rand0m_walk3r">rand0m_walk3r</a></td>
 		<td>Algiers, Algeria</td>
 		<td>6</td>
-		<td>2858</td>
+		<td>2865</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -892,20 +892,6 @@ There are `971 users`  in Algeria. You need at least `14 followers` to be on thi
 	<tr>
 		<td>57</td>
 		<td>
-			<a href="https://github.com/dr-saad-la">
-				<img src="https://avatars.githubusercontent.com/u/56449463?s=72&u=3abc277e13c8c2e6c2e814728584575ac6514f50&v=4" width="24" alt="Avatar of dr-saad-la"> dr-saad-la
-			</a><br/>
-			Dr.Saad.L
-		</td>
-		<td>Freelancer </td>
-		<td><a href="https://twitter.com/DrSaadLa">DrSaadLa</a></td>
-		<td>Algeria</td>
-		<td>1550</td>
-		<td>1552</td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>
 			<a href="https://github.com/robvan2">
 				<img src="https://avatars.githubusercontent.com/u/46126356?s=72&u=d185b101a3fed95bd081e82c41c3bf4f4907b422&v=4" width="24" alt="Avatar of robvan2"> robvan2
 			</a><br/>
@@ -915,6 +901,20 @@ There are `971 users`  in Algeria. You need at least `14 followers` to be on thi
 		<td><a href="https://twitter.com/khalil_robvan">khalil_robvan</a></td>
 		<td>Ali Mendjli, Constantine, Algeria</td>
 		<td>1</td>
+		<td>1556</td>
+	</tr>
+	<tr>
+		<td>58</td>
+		<td>
+			<a href="https://github.com/dr-saad-la">
+				<img src="https://avatars.githubusercontent.com/u/56449463?s=72&u=3abc277e13c8c2e6c2e814728584575ac6514f50&v=4" width="24" alt="Avatar of dr-saad-la"> dr-saad-la
+			</a><br/>
+			Dr.Saad.L
+		</td>
+		<td>Freelancer </td>
+		<td><a href="https://twitter.com/DrSaadLa">DrSaadLa</a></td>
+		<td>Algeria</td>
+		<td>1550</td>
 		<td>1552</td>
 	</tr>
 	<tr>
@@ -1153,7 +1153,7 @@ There are `971 users`  in Algeria. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
 		<td>640</td>
-		<td>1306</td>
+		<td>1307</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -2749,7 +2749,7 @@ There are `971 users`  in Algeria. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
 		<td>41</td>
-		<td>648</td>
+		<td>649</td>
 	</tr>
 	<tr>
 		<td>190</td>
@@ -3785,7 +3785,7 @@ There are `971 users`  in Algeria. You need at least `14 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Algeria</td>
 		<td>36</td>
-		<td>436</td>
+		<td>437</td>
 	</tr>
 	<tr>
 		<td>264</td>
