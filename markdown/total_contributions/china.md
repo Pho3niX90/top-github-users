@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `public contributions` and `private contributions` by users in China on `2025/2/12 4:45 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `public contributions` and `private contributions` by users in China on `2025/2/12 4:51 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -355,7 +355,7 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td><a href="https://twitter.com/isukkaw">isukkaw</a></td>
 		<td>City of Science which is not in China</td>
 		<td>3317</td>
-		<td>4821</td>
+		<td>4826</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -1979,7 +1979,7 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Beijing, China</td>
 		<td>13</td>
-		<td>1189</td>
+		<td>1190</td>
 	</tr>
 	<tr>
 		<td>135</td>
@@ -3272,6 +3272,20 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 	<tr>
 		<td>227</td>
 		<td>
+			<a href="https://github.com/zangqilong198812">
+				<img src="https://avatars.githubusercontent.com/u/8814535?s=72&u=3edb07e10e7299ffc6972cf7b9a001bc68646f0b&v=4" width="24" alt="Avatar of zangqilong198812"> zangqilong198812
+			</a><br/>
+			Yegucheng
+		</td>
+		<td>@rethinkingstudio </td>
+		<td><a href="https://twitter.com/Dragon_zang">Dragon_zang</a></td>
+		<td>China</td>
+		<td>18</td>
+		<td>565</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
 			<a href="https://github.com/ruanyf">
 				<img src="https://avatars.githubusercontent.com/u/905434?s=72&v=4" width="24" alt="Avatar of ruanyf"> ruanyf
 			</a><br/>
@@ -3284,7 +3298,7 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td>564</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a href="https://github.com/xiaolai">
 				<img src="https://avatars.githubusercontent.com/u/152970?s=72&u=8b2fcedd53d6e46faf809b001cecf3f1981692fe&v=4" width="24" alt="Avatar of xiaolai"> xiaolai
@@ -3295,20 +3309,6 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td><a href="https://twitter.com/xiaolai">xiaolai</a></td>
 		<td>beijing</td>
 		<td>563</td>
-		<td>563</td>
-	</tr>
-	<tr>
-		<td>229</td>
-		<td>
-			<a href="https://github.com/zangqilong198812">
-				<img src="https://avatars.githubusercontent.com/u/8814535?s=72&u=3edb07e10e7299ffc6972cf7b9a001bc68646f0b&v=4" width="24" alt="Avatar of zangqilong198812"> zangqilong198812
-			</a><br/>
-			Yegucheng
-		</td>
-		<td>@rethinkingstudio </td>
-		<td><a href="https://twitter.com/Dragon_zang">Dragon_zang</a></td>
-		<td>China</td>
-		<td>18</td>
 		<td>563</td>
 	</tr>
 	<tr>

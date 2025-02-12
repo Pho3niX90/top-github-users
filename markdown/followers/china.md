@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" alt="China">
 </a>
 
-The `number of followers` of users in China on `2025/2/12 4:45 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
+The `number of followers` of users in China on `2025/2/12 4:51 PM UTC`. This list contains users from `China` and cities `Beijing` `Shanghai` `Guangzhou` `Shenzhen` `Chongqing` `Chengdu` `Harbin` `Tianjin`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -128,7 +128,7 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Shanghai, China</td>
-		<td>80855</td>
+		<td>80856</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -765,7 +765,7 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td>ʕ•̫͡•ʔ-̫͡-ʕ•͓͡•ʔ-̫͡- </td>
 		<td><a href="https://twitter.com/jaywcjlove">jaywcjlove</a></td>
 		<td>Suzhou, China</td>
-		<td>8159</td>
+		<td>8160</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -1285,7 +1285,7 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td>@microsoft </td>
 		<td><a href="https://twitter.com/jd92wang">jd92wang</a></td>
 		<td>Beijing, China</td>
-		<td>5121</td>
+		<td>5122</td>
 	</tr>
 	<tr>
 		<td>92</td>
@@ -5099,19 +5099,6 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 	<tr>
 		<td>385</td>
 		<td>
-			<a href="https://github.com/glzjin">
-				<img src="https://avatars.githubusercontent.com/u/7975407?s=72&u=e8df9eeca26135e93dc2913e56d2a9f70f734447&v=4" width="24" alt="Avatar of glzjin"> glzjin
-			</a><br/>
-			glzjin
-		</td>
-		<td>Dbappsecurity </td>
-		<td><a href="https://twitter.com/glzjin">glzjin</a></td>
-		<td>Hangzhou, China</td>
-		<td>1649</td>
-	</tr>
-	<tr>
-		<td>386</td>
-		<td>
 			<a href="https://github.com/FrozenGene">
 				<img src="https://avatars.githubusercontent.com/u/7287321?s=72&u=3a9c6560b3b15d911c784c4eb3adc99e62f12a09&v=4" width="24" alt="Avatar of FrozenGene"> FrozenGene
 			</a><br/>
@@ -5120,6 +5107,19 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Shanghai</td>
+		<td>1650</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
+			<a href="https://github.com/glzjin">
+				<img src="https://avatars.githubusercontent.com/u/7975407?s=72&u=e8df9eeca26135e93dc2913e56d2a9f70f734447&v=4" width="24" alt="Avatar of glzjin"> glzjin
+			</a><br/>
+			glzjin
+		</td>
+		<td>Dbappsecurity </td>
+		<td><a href="https://twitter.com/glzjin">glzjin</a></td>
+		<td>Hangzhou, China</td>
 		<td>1649</td>
 	</tr>
 	<tr>
@@ -5276,7 +5276,7 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td>Airuikun123@gmail.co </td>
 		<td>No Twitter Username</td>
 		<td>China</td>
-		<td>1604</td>
+		<td>1605</td>
 	</tr>
 	<tr>
 		<td>399</td>
@@ -7491,6 +7491,19 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 	<tr>
 		<td>569</td>
 		<td>
+			<a href="https://github.com/oldj">
+				<img src="https://avatars.githubusercontent.com/u/416130?s=72&u=8753e86600e300a9811cdc539aa158deec2e2724&v=4" width="24" alt="Avatar of oldj"> oldj
+			</a><br/>
+			oldj
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/oldj">oldj</a></td>
+		<td>Hangzhou, China</td>
+		<td>1191</td>
+	</tr>
+	<tr>
+		<td>570</td>
+		<td>
 			<a href="https://github.com/xmuSistone">
 				<img src="https://avatars.githubusercontent.com/u/12167762?s=72&u=c8eacc1c73e3a0a160b3f9440e7ca6c16ab6e226&v=4" width="24" alt="Avatar of xmuSistone"> xmuSistone
 			</a><br/>
@@ -7500,19 +7513,6 @@ There are `942 users`  in China. You need at least `750 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Hangzhou, Zhejiang, China</td>
 		<td>1191</td>
-	</tr>
-	<tr>
-		<td>570</td>
-		<td>
-			<a href="https://github.com/oldj">
-				<img src="https://avatars.githubusercontent.com/u/416130?s=72&u=8753e86600e300a9811cdc539aa158deec2e2724&v=4" width="24" alt="Avatar of oldj"> oldj
-			</a><br/>
-			oldj
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/oldj">oldj</a></td>
-		<td>Hangzhou, China</td>
-		<td>1190</td>
 	</tr>
 	<tr>
 		<td>571</td>
