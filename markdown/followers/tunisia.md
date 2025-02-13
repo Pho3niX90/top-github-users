@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg" alt="Tunisia">
 </a>
 
-The `number of followers` of users in Tunisia on `2025/2/13 1:35 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
+The `number of followers` of users in Tunisia on `2025/2/13 1:43 PM UTC`. This list contains users from `Tunisia` and cities `Tunis` `Sfax` `Sousse` `Kairouan`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
-There are `753 users`  in Tunisia. You need at least `17 followers` to be on this list.
+There are `773 users`  in Tunisia. You need at least `16 followers` to be on this list.
 
 <table>
 	<tr>
@@ -9818,6 +9818,19 @@ There are `753 users`  in Tunisia. You need at least `17 followers` to be on thi
 	<tr>
 		<td>748</td>
 		<td>
+			<a href="https://github.com/marwenhlaoui">
+				<img src="https://avatars.githubusercontent.com/u/7149833?s=72&u=3e7690aaad800aaaf62f884cf58a62a9db1ed440&v=4" width="24" alt="Avatar of marwenhlaoui"> marwenhlaoui
+			</a><br/>
+			Marwen Hlaoui
+		</td>
+		<td>Dev2vision </td>
+		<td><a href="https://twitter.com/marwenhlaoui">marwenhlaoui</a></td>
+		<td>Tunisia - Mahdia</td>
+		<td>17</td>
+	</tr>
+	<tr>
+		<td>749</td>
+		<td>
 			<a href="https://github.com/cizario">
 				<img src="https://avatars.githubusercontent.com/u/4152246?s=72&u=2240e625d2ce1f3f769abd20d384c341afaf84d7&v=4" width="24" alt="Avatar of cizario"> cizario
 			</a><br/>
@@ -9829,7 +9842,7 @@ There are `753 users`  in Tunisia. You need at least `17 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/mohammedtoumi007">
 				<img src="https://avatars.githubusercontent.com/u/55878755?s=72&u=ed6d1c13af7b7fecf7393fed1112f810d9fd6128&v=4" width="24" alt="Avatar of mohammedtoumi007"> mohammedtoumi007
@@ -9842,7 +9855,7 @@ There are `753 users`  in Tunisia. You need at least `17 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/MARSHMALLLOW">
 				<img src="https://avatars.githubusercontent.com/u/39800455?s=72&u=21f90be6a64e7d570a01138166818b485ee47215&v=4" width="24" alt="Avatar of MARSHMALLLOW"> MARSHMALLLOW
@@ -9855,7 +9868,7 @@ There are `753 users`  in Tunisia. You need at least `17 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>752</td>
 		<td>
 			<a href="https://github.com/AkroutiHamza">
 				<img src="https://avatars.githubusercontent.com/u/50912421?s=72&v=4" width="24" alt="Avatar of AkroutiHamza"> AkroutiHamza
@@ -9868,7 +9881,7 @@ There are `753 users`  in Tunisia. You need at least `17 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a href="https://github.com/montassar1998">
 				<img src="https://avatars.githubusercontent.com/u/96944771?s=72&u=17a08f17d18a37c0ec76fd674d95199d2f80fb51&v=4" width="24" alt="Avatar of montassar1998"> montassar1998
@@ -9881,7 +9894,7 @@ There are `753 users`  in Tunisia. You need at least `17 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a href="https://github.com/Ben-Sassi-Oussema">
 				<img src="https://avatars.githubusercontent.com/u/16267611?s=72&u=a847799fb1c0d61af07be01dcdaae7b9a176a2b5&v=4" width="24" alt="Avatar of Ben-Sassi-Oussema"> Ben-Sassi-Oussema
@@ -9892,6 +9905,253 @@ There are `753 users`  in Tunisia. You need at least `17 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Nabeul Tunisia</td>
 		<td>17</td>
+	</tr>
+	<tr>
+		<td>755</td>
+		<td>
+			<a href="https://github.com/roniceyemeli">
+				<img src="https://avatars.githubusercontent.com/u/81180104?s=72&u=7b8f12a7cf7db2db139d36cb799eb659aae0e5ee&v=4" width="24" alt="Avatar of roniceyemeli"> roniceyemeli
+			</a><br/>
+			Ronice Yemeli
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/roniceyemeli">roniceyemeli</a></td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
+			<a href="https://github.com/safwendammak">
+				<img src="https://avatars.githubusercontent.com/u/56032324?s=72&u=ef0037d8199b7921e5579e2603452625fcb36066&v=4" width="24" alt="Avatar of safwendammak"> safwendammak
+			</a><br/>
+			Safwen
+		</td>
+		<td>Freelancer </td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>757</td>
+		<td>
+			<a href="https://github.com/oussama">
+				<img src="https://avatars.githubusercontent.com/u/3091819?s=72&u=fdaa360b9a865cef238fe7a3c54285112d12c764&v=4" width="24" alt="Avatar of oussama"> oussama
+			</a><br/>
+			Oussama Gammoudi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>758</td>
+		<td>
+			<a href="https://github.com/ahlem-jarrar">
+				<img src="https://avatars.githubusercontent.com/u/12076303?s=72&u=5fa413bec988ba8c3019ece2880754fa7c4f3dd6&v=4" width="24" alt="Avatar of ahlem-jarrar"> ahlem-jarrar
+			</a><br/>
+			Ahlem Jarrar
+		</td>
+		<td>@horizontal-org @one-time-code </td>
+		<td><a href="https://twitter.com/JarrarAhlem">JarrarAhlem</a></td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>759</td>
+		<td>
+			<a href="https://github.com/ala-hamadi">
+				<img src="https://avatars.githubusercontent.com/u/72763244?s=72&u=d727aa6135d137c5a2398d539a4551513e462964&v=4" width="24" alt="Avatar of ala-hamadi"> ala-hamadi
+			</a><br/>
+			Ala Hamadi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Nabeul, Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>760</td>
+		<td>
+			<a href="https://github.com/rozee01">
+				<img src="https://avatars.githubusercontent.com/u/109590886?s=72&v=4" width="24" alt="Avatar of rozee01"> rozee01
+			</a><br/>
+			Arij Thabet
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunis</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>761</td>
+		<td>
+			<a href="https://github.com/Mohamed00674">
+				<img src="https://avatars.githubusercontent.com/u/54448929?s=72&u=91d77dadf0255f4ce3cd71bd39d494f48e965b3c&v=4" width="24" alt="Avatar of Mohamed00674"> Mohamed00674
+			</a><br/>
+			Mohamed Ahmed
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>762</td>
+		<td>
+			<a href="https://github.com/anasbenraies">
+				<img src="https://avatars.githubusercontent.com/u/89027915?s=72&u=3a46568548cb3434a5a9235b6d66370d435447e0&v=4" width="24" alt="Avatar of anasbenraies"> anasbenraies
+			</a><br/>
+			anas ben raies
+		</td>
+		<td>Polytechintl </td>
+		<td>No Twitter Username</td>
+		<td>Tunisia , Tunis</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>763</td>
+		<td>
+			<a href="https://github.com/MedTaherGhazel">
+				<img src="https://avatars.githubusercontent.com/u/119009624?s=72&u=5e520ac0aee1f72af63fd03d912fb6d260c72b0a&v=4" width="24" alt="Avatar of MedTaherGhazel"> MedTaherGhazel
+			</a><br/>
+			Med Taher Ghazel
+		</td>
+		<td>Iset Bizerte </td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>764</td>
+		<td>
+			<a href="https://github.com/mohamedbenalima">
+				<img src="https://avatars.githubusercontent.com/u/40917856?s=72&u=34e877a79be907feba823bd215bdf2fc5011fec7&v=4" width="24" alt="Avatar of mohamedbenalima"> mohamedbenalima
+			</a><br/>
+			Mohamed Ben Halima
+		</td>
+		<td>University Of Sousse </td>
+		<td>No Twitter Username</td>
+		<td>Tunis-Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>765</td>
+		<td>
+			<a href="https://github.com/MOHAMMED75G">
+				<img src="https://avatars.githubusercontent.com/u/121175508?s=72&u=d523284dcb847a57b239880d2f6031620486a362&v=4" width="24" alt="Avatar of MOHAMMED75G"> MOHAMMED75G
+			</a><br/>
+			mohammed gharab
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunis</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>766</td>
+		<td>
+			<a href="https://github.com/MeriemBenIsmail">
+				<img src="https://avatars.githubusercontent.com/u/79004132?s=72&u=5244e07361877783e6e4de9db5e7356aca95bd87&v=4" width="24" alt="Avatar of MeriemBenIsmail"> MeriemBenIsmail
+			</a><br/>
+			No Name
+		</td>
+		<td>National Institute Of Applied<br/>Sciences<br/>And<br/>Technology<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>767</td>
+		<td>
+			<a href="https://github.com/rmed19">
+				<img src="https://avatars.githubusercontent.com/u/511446?s=72&u=fb28964369f42fdc5d7df3d950c9b87e6f912eec&v=4" width="24" alt="Avatar of rmed19"> rmed19
+			</a><br/>
+			Mohammed Rhamnia
+		</td>
+		<td>Nm-development </td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>768</td>
+		<td>
+			<a href="https://github.com/AmmariJawher">
+				<img src="https://avatars.githubusercontent.com/u/39348454?s=72&u=ee6b8e1ddb278700fdbbf4b2125d770dec377216&v=4" width="24" alt="Avatar of AmmariJawher"> AmmariJawher
+			</a><br/>
+			Jawher AMMARI
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>769</td>
+		<td>
+			<a href="https://github.com/SpeTr0x">
+				<img src="https://avatars.githubusercontent.com/u/23198990?s=72&u=80bec211ef1fe81306940336bb64d6b39532fca8&v=4" width="24" alt="Avatar of SpeTr0x"> SpeTr0x
+			</a><br/>
+			Moataz Jemni
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>770</td>
+		<td>
+			<a href="https://github.com/AnasGhrab">
+				<img src="https://avatars.githubusercontent.com/u/2726240?s=72&u=ef72216b89c799ffce46de63441cec8c62d5fd9e&v=4" width="24" alt="Avatar of AnasGhrab"> AnasGhrab
+			</a><br/>
+			Anas
+		</td>
+		<td>Cmam - Isms </td>
+		<td>No Twitter Username</td>
+		<td>Tunis</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>771</td>
+		<td>
+			<a href="https://github.com/JbFiras">
+				<img src="https://avatars.githubusercontent.com/u/38445298?s=72&u=18d18c13fe22c147bb90da81062bdac2bc889b7b&v=4" width="24" alt="Avatar of JbFiras"> JbFiras
+			</a><br/>
+			Firas Jebari
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunisia</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>772</td>
+		<td>
+			<a href="https://github.com/RIDHA12">
+				<img src="https://avatars.githubusercontent.com/u/10274948?s=72&u=654b5f3c5312336fb3a33f2f9d26a5f8da1367f4&v=4" width="24" alt="Avatar of RIDHA12"> RIDHA12
+			</a><br/>
+			RIDHA DHS CLUB
+		</td>
+		<td>Swiscoin </td>
+		<td>No Twitter Username</td>
+		<td>TUNISIA</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>773</td>
+		<td>
+			<a href="https://github.com/chiraz">
+				<img src="https://avatars.githubusercontent.com/u/4313221?s=72&v=4" width="24" alt="Avatar of chiraz"> chiraz
+			</a><br/>
+			Chiraz BenAbdelkader
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tunis, Tunisia</td>
+		<td>16</td>
 	</tr>
 </table>
 
