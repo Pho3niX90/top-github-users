@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg" alt="Nicaragua">
 </a>
 
-The `number of followers` of users in Nicaragua on `2025/2/14 11:30 AM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
+The `number of followers` of users in Nicaragua on `2025/2/14 11:39 AM UTC`. This list contains users from `Nicaragua` and cities `Managua` `Leon` `Granada` `Masaya` `Esteli`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
-There are `977 users`  in Nicaragua. You need at least `8 followers` to be on this list.
+There are `967 users`  in Nicaragua. You need at least `8 followers` to be on this list.
 
 <table>
 	<tr>
@@ -12626,110 +12626,6 @@ There are `977 users`  in Nicaragua. You need at least `8 followers` to be on th
 	<tr>
 		<td>964</td>
 		<td>
-			<a href="https://github.com/KaimDev">
-				<img src="https://avatars.githubusercontent.com/u/88113215?s=72&u=62cf38808b641ae32b865b0cad56e8ac83b5c94b&v=4" width="24" alt="Avatar of KaimDev"> KaimDev
-			</a><br/>
-			Johan Paiz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Managua, Nicaragua</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>965</td>
-		<td>
-			<a href="https://github.com/dingosky">
-				<img src="https://avatars.githubusercontent.com/u/134293?s=72&v=4" width="24" alt="Avatar of dingosky"> dingosky
-			</a><br/>
-			Paul Rogers
-		</td>
-		<td>Dingo Sky </td>
-		<td>No Twitter Username</td>
-		<td>Santa Fe, NM & Güéjar-Sierra, Granada, Spain</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>966</td>
-		<td>
-			<a href="https://github.com/gorgueugr">
-				<img src="https://avatars.githubusercontent.com/u/19388881?s=72&u=c48016dd1ef6deb31a04aceae7f5be38e6967411&v=4" width="24" alt="Avatar of gorgueugr"> gorgueugr
-			</a><br/>
-			Jorge Soler
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>967</td>
-		<td>
-			<a href="https://github.com/BrandonErick">
-				<img src="https://avatars.githubusercontent.com/u/100455383?s=72&u=d2b4173fadb1a92e09dc480c14e97793d8da41d5&v=4" width="24" alt="Avatar of BrandonErick"> BrandonErick
-			</a><br/>
-			Brandon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Monterrey,Nuevo Leon</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>968</td>
-		<td>
-			<a href="https://github.com/Salvarobles">
-				<img src="https://avatars.githubusercontent.com/u/118806717?s=72&u=4c87cb5ff4916375cab1e988a34c19c8d9888d4f&v=4" width="24" alt="Avatar of Salvarobles"> Salvarobles
-			</a><br/>
-			salva_robles
-		</td>
-		<td>I.e.s Politécnico Hermenegildo Lanz<br/></td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>969</td>
-		<td>
-			<a href="https://github.com/DavidGSola">
-				<img src="https://avatars.githubusercontent.com/u/9080930?s=72&v=4" width="24" alt="Avatar of DavidGSola"> DavidGSola
-			</a><br/>
-			David Sola
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada, Spain</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>970</td>
-		<td>
-			<a href="https://github.com/jbermejovega">
-				<img src="https://avatars.githubusercontent.com/u/75273221?s=72&u=e5030137d23a1cf998fc0572e9d92d2d65e97093&v=4" width="24" alt="Avatar of jbermejovega"> jbermejovega
-			</a><br/>
-			Jara Juana (Juani) Bermejo-Vega (she/her)
-		</td>
-		<td>University Of Granada </td>
-		<td><a href="https://twitter.com/queenofquanta">queenofquanta</a></td>
-		<td>Granada, Spain</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>971</td>
-		<td>
-			<a href="https://github.com/mcribi">
-				<img src="https://avatars.githubusercontent.com/u/80592906?s=72&v=4" width="24" alt="Avatar of mcribi"> mcribi
-			</a><br/>
-			María Cribillés Pérez
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>972</td>
-		<td>
 			<a href="https://github.com/jonariv09">
 				<img src="https://avatars.githubusercontent.com/u/50531280?s=72&u=73d68f6e0be8d2a4283980ec7d1559dfc950b483&v=4" width="24" alt="Avatar of jonariv09"> jonariv09
 			</a><br/>
@@ -12741,7 +12637,7 @@ There are `977 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>973</td>
+		<td>965</td>
 		<td>
 			<a href="https://github.com/jabdo89">
 				<img src="https://avatars.githubusercontent.com/u/43385201?s=72&u=d93c4f7985c20920155c9df24c324ba7f3b7dc74&v=4" width="24" alt="Avatar of jabdo89"> jabdo89
@@ -12754,7 +12650,7 @@ There are `977 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>974</td>
+		<td>966</td>
 		<td>
 			<a href="https://github.com/Frauchi">
 				<img src="https://avatars.githubusercontent.com/u/44001317?s=72&u=1b308b3726331c47fcccb855160615df3bd80c35&v=4" width="24" alt="Avatar of Frauchi"> Frauchi
@@ -12767,7 +12663,7 @@ There are `977 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>8</td>
 	</tr>
 	<tr>
-		<td>975</td>
+		<td>967</td>
 		<td>
 			<a href="https://github.com/povmaniaco">
 				<img src="https://avatars.githubusercontent.com/u/421372?s=72&u=6cc6ba1929ffc93ec6b7680a196a2ffac80bb299&v=4" width="24" alt="Avatar of povmaniaco"> povmaniaco
@@ -12777,32 +12673,6 @@ There are `977 users`  in Nicaragua. You need at least `8 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Granada - Spain</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>976</td>
-		<td>
-			<a href="https://github.com/Jeff94sl">
-				<img src="https://avatars.githubusercontent.com/u/25060181?s=72&u=73321683f081f41f935563e573738d4fd4b414a9&v=4" width="24" alt="Avatar of Jeff94sl"> Jeff94sl
-			</a><br/>
-			Jefrin Salgado
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Nicaragua</td>
-		<td>8</td>
-	</tr>
-	<tr>
-		<td>977</td>
-		<td>
-			<a href="https://github.com/Novotendo">
-				<img src="https://avatars.githubusercontent.com/u/33312243?s=72&u=e0a2637321f97e88bc0cc7c484b0f31935743a9f&v=4" width="24" alt="Avatar of Novotendo"> Novotendo
-			</a><br/>
-			Álvaro Martínez Novo
-		</td>
-		<td>University Of Granada </td>
-		<td>No Twitter Username</td>
-		<td>Granada</td>
 		<td>8</td>
 	</tr>
 </table>
