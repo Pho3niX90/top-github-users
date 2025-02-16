@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/2/15 3:43 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/2/16 8:02 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -1160,6 +1160,19 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>82</td>
 		<td>
+			<a href="https://github.com/foye-jr1046">
+				<img src="https://avatars.githubusercontent.com/u/50973160?s=72&u=c2997b314fcf136f389e6e79d2077fee51caecc8&v=4" width="24" alt="Avatar of foye-jr1046"> foye-jr1046
+			</a><br/>
+			Abdelwahid Mahamat Foye Ilias
+		</td>
+		<td>A.m.f.i.tech </td>
+		<td><a href="https://twitter.com/foye_jr1046">foye_jr1046</a></td>
+		<td>N'djamena, Chad</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td>
 			<a href="https://github.com/mouazmikail">
 				<img src="https://avatars.githubusercontent.com/u/45897030?s=72&u=744c53da4f87812525ac8fdb6a3aa8720a78852f&v=4" width="24" alt="Avatar of mouazmikail"> mouazmikail
 			</a><br/>
@@ -1171,7 +1184,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>83</td>
+		<td>84</td>
 		<td>
 			<a href="https://github.com/steve-nanou">
 				<img src="https://avatars.githubusercontent.com/u/39991481?s=72&u=3f4b52f5a49bd5e41aa5771cb853157e6668eab6&v=4" width="24" alt="Avatar of steve-nanou"> steve-nanou
@@ -1184,7 +1197,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>85</td>
 		<td>
 			<a href="https://github.com/rabbitsortof">
 				<img src="https://avatars.githubusercontent.com/u/84213436?s=72&u=4118285048fd7e81b11e2c7cfff563de6c8104da&v=4" width="24" alt="Avatar of rabbitsortof"> rabbitsortof
@@ -1197,7 +1210,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>86</td>
 		<td>
 			<a href="https://github.com/moustaphousman">
 				<img src="https://avatars.githubusercontent.com/u/81974619?s=72&u=05444d22c5e3c0082bf8daf5a057fd4378fee521&v=4" width="24" alt="Avatar of moustaphousman"> moustaphousman
@@ -1210,7 +1223,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>87</td>
 		<td>
 			<a href="https://github.com/Charlesjami">
 				<img src="https://avatars.githubusercontent.com/u/155015393?s=72&v=4" width="24" alt="Avatar of Charlesjami"> Charlesjami
@@ -1223,7 +1236,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>88</td>
 		<td>
 			<a href="https://github.com/Gagayo">
 				<img src="https://avatars.githubusercontent.com/u/46720811?s=72&u=5a2857bb3f838bc76bbfa866748303ddcfb19b7e&v=4" width="24" alt="Avatar of Gagayo"> Gagayo
@@ -1236,7 +1249,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>88</td>
+		<td>89</td>
 		<td>
 			<a href="https://github.com/Onycco">
 				<img src="https://avatars.githubusercontent.com/u/105555391?s=72&v=4" width="24" alt="Avatar of Onycco"> Onycco
@@ -1249,7 +1262,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>89</td>
+		<td>90</td>
 		<td>
 			<a href="https://github.com/iss7a99">
 				<img src="https://avatars.githubusercontent.com/u/44193476?s=72&u=de4cc8f65c445d11ec01b1a4d120d995d220fd19&v=4" width="24" alt="Avatar of iss7a99"> iss7a99
@@ -1262,7 +1275,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>90</td>
+		<td>91</td>
 		<td>
 			<a href="https://github.com/TelvanniChad">
 				<img src="https://avatars.githubusercontent.com/u/87497218?s=72&v=4" width="24" alt="Avatar of TelvanniChad"> TelvanniChad
@@ -1272,19 +1285,6 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>House Telvanni </td>
 		<td>No Twitter Username</td>
 		<td>Tel Chad, Vvardenfell, Morrowind</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
-			<a href="https://github.com/foye-jr1046">
-				<img src="https://avatars.githubusercontent.com/u/50973160?s=72&u=c2997b314fcf136f389e6e79d2077fee51caecc8&v=4" width="24" alt="Avatar of foye-jr1046"> foye-jr1046
-			</a><br/>
-			Abdelwahid Mahamat Foye Ilias
-		</td>
-		<td>A.m.f.i.tech </td>
-		<td><a href="https://twitter.com/foye_jr1046">foye_jr1046</a></td>
-		<td>N'djamena, Chad</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1472,19 +1472,6 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>106</td>
 		<td>
-			<a href="https://github.com/Mahamat-Abdoulkerim-Mahamat-Amadou">
-				<img src="https://avatars.githubusercontent.com/u/158032873?s=72&v=4" width="24" alt="Avatar of Mahamat-Abdoulkerim-Mahamat-Amadou"> Mahamat-Abdoulkerim-Mahamat-Amadou
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tchad/N'Djamena </td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>107</td>
-		<td>
 			<a href="https://github.com/Momadje">
 				<img src="https://avatars.githubusercontent.com/u/99184771?s=72&v=4" width="24" alt="Avatar of Momadje"> Momadje
 			</a><br/>
@@ -1493,6 +1480,19 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Imperial Brands  </td>
 		<td>No Twitter Username</td>
 		<td>N'djamena</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
+			<a href="https://github.com/Mahamat-Abdoulkerim-Mahamat-Amadou">
+				<img src="https://avatars.githubusercontent.com/u/158032873?s=72&v=4" width="24" alt="Avatar of Mahamat-Abdoulkerim-Mahamat-Amadou"> Mahamat-Abdoulkerim-Mahamat-Amadou
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tchad/N'Djamena </td>
 		<td>1</td>
 	</tr>
 	<tr>
