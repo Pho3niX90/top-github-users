@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `public contributions` and `private contributions` by users in Sierra Leone on `2025/2/15 7:31 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `public contributions` and `private contributions` by users in Sierra Leone on `2025/2/16 11:41 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -131,7 +131,7 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/Abarrie_potter">Abarrie_potter</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>76</td>
-		<td>1210</td>
+		<td>1211</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -187,7 +187,7 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/pythonnelson">pythonnelson</a></td>
 		<td>Freetown</td>
 		<td>100</td>
-		<td>768</td>
+		<td>769</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -215,10 +215,24 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>17</td>
-		<td>611</td>
+		<td>617</td>
 	</tr>
 	<tr>
 		<td>9</td>
+		<td>
+			<a href="https://github.com/Dumbuya1475">
+				<img src="https://avatars.githubusercontent.com/u/148585277?s=72&u=766592401ea0eab7489ce43817a6eb123c530c23&v=4" width="24" alt="Avatar of Dumbuya1475"> Dumbuya1475
+			</a><br/>
+			Mohamed Super Dumbuy
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/msdumbuya1475">msdumbuya1475</a></td>
+		<td>Freetown-Sierra Leone</td>
+		<td>423</td>
+		<td>474</td>
+	</tr>
+	<tr>
+		<td>10</td>
 		<td>
 			<a href="https://github.com/AmaduKamara">
 				<img src="https://avatars.githubusercontent.com/u/50941074?s=72&u=38592ae852a8d131c1402c216a11157ae5c72394&v=4" width="24" alt="Avatar of AmaduKamara"> AmaduKamara
@@ -232,20 +246,6 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>471</td>
 	</tr>
 	<tr>
-		<td>10</td>
-		<td>
-			<a href="https://github.com/Dumbuya1475">
-				<img src="https://avatars.githubusercontent.com/u/148585277?s=72&u=766592401ea0eab7489ce43817a6eb123c530c23&v=4" width="24" alt="Avatar of Dumbuya1475"> Dumbuya1475
-			</a><br/>
-			Mohamed Super Dumbuy
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/msdumbuya1475">msdumbuya1475</a></td>
-		<td>Freetown-Sierra Leone</td>
-		<td>417</td>
-		<td>468</td>
-	</tr>
-	<tr>
 		<td>11</td>
 		<td>
 			<a href="https://github.com/abdullah4tech">
@@ -256,8 +256,8 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abdullah4tech_">abdullah4tech_</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>423</td>
-		<td>460</td>
+		<td>424</td>
+		<td>461</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -285,7 +285,7 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Freetown Sierra Leone </td>
 		<td>127</td>
-		<td>431</td>
+		<td>432</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -340,8 +340,8 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Huawei Technologies </td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
-		<td>199</td>
-		<td>199</td>
+		<td>204</td>
+		<td>204</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -355,7 +355,7 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td><a href="https://twitter.com/medvik_k">medvik_k</a></td>
 		<td>Freetown, Sierra Leone</td>
 		<td>0</td>
-		<td>170</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -410,8 +410,8 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Freetown, Sierra Leone</td>
-		<td>23</td>
-		<td>106</td>
+		<td>26</td>
+		<td>109</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -424,8 +424,8 @@ There are `302 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Wj </td>
 		<td>No Twitter Username</td>
 		<td>Freetown</td>
-		<td>98</td>
-		<td>98</td>
+		<td>102</td>
+		<td>102</td>
 	</tr>
 	<tr>
 		<td>24</td>
