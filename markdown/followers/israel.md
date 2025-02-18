@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg" alt="Israel">
 </a>
 
-The `number of followers` of users in Israel on `2025/2/17 6:53 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
+The `number of followers` of users in Israel on `2025/2/18 11:40 PM UTC`. This list contains users from `Israel` and cities `Jerusalem` `Tel-aviv` `Haifa` `Lod` `Be'er-sheva` `Ashkelon` `Bat-yam` `Netanya`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
