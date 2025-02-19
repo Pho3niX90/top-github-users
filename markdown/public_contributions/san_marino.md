@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg" alt="San Marino">
 </a>
 
-The `public contributions` by users in San Marino on `2025/2/18 5:26 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
+The `public contributions` by users in San Marino on `2025/2/19 10:01 AM UTC`. This list contains users from `San Marino` and cities `Marino`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -115,7 +115,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>@grafana </td>
 		<td><a href="https://twitter.com/llandy3d">llandy3d</a></td>
 		<td>San Marino</td>
-		<td>610</td>
+		<td>611</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -154,7 +154,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Università Di Bologna </td>
 		<td>No Twitter Username</td>
 		<td>San Marino</td>
-		<td>163</td>
+		<td>168</td>
 	</tr>
 	<tr>
 		<td>5</td>
@@ -245,7 +245,7 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>San Marino, CA</td>
-		<td>47</td>
+		<td>48</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -718,19 +718,6 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/orione1974">
-				<img src="https://avatars.githubusercontent.com/u/1917307?s=72&u=dbb2b01e7a3527896e0e79401840efb51c391180&v=4" width="24" alt="Avatar of orione1974"> orione1974
-			</a><br/>
-			Fabrizio Ciavatta
-		</td>
-		<td>Espertia S.r.l. </td>
-		<td>No Twitter Username</td>
-		<td>Republic of San Marino</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
 			<a href="https://github.com/pro-free-dev">
 				<img src="https://avatars.githubusercontent.com/u/13233825?s=72&u=66884493046100f82a914ad145ee8c6476a4da73&v=4" width="24" alt="Avatar of pro-free-dev"> pro-free-dev
 			</a><br/>
@@ -739,6 +726,19 @@ There are `125 users`  in San Marino. You need at least `0 followers` to be on t
 		<td>Leannon-nolan </td>
 		<td>No Twitter Username</td>
 		<td>3965 ,Graciela Dam ,Lake Larrainefort ,Maryland ,San Marino</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/orione1974">
+				<img src="https://avatars.githubusercontent.com/u/1917307?s=72&u=dbb2b01e7a3527896e0e79401840efb51c391180&v=4" width="24" alt="Avatar of orione1974"> orione1974
+			</a><br/>
+			Fabrizio Ciavatta
+		</td>
+		<td>Espertia S.r.l. </td>
+		<td>No Twitter Username</td>
+		<td>Republic of San Marino</td>
 		<td>1</td>
 	</tr>
 	<tr>
