@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg" alt="Guatemala">
 </a>
 
-The `number of followers` of users in Guatemala on `2025/2/20 4:49 AM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
+The `number of followers` of users in Guatemala on `2025/2/21 8:43 AM UTC`. This list contains users from `Guatemala` and cities `Guatemala-city` `Antigua-guatemala` `Quetzaltenango` `Chichicastenango` `Villa-nueva` `Totonicapán`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
