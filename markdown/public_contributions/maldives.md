@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg" alt="Maldives">
 </a>
 
-The `public contributions` by users in Maldives on `2025/2/22 5:04 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
+The `public contributions` by users in Maldives on `2025/2/23 8:28 PM UTC`. This list contains users from `Maldives` and cities `Malé` `Addu-city`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -128,7 +128,7 @@ There are `654 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/fauzaanu">fauzaanu</a></td>
 		<td>Maldives</td>
-		<td>1385</td>
+		<td>1383</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -193,7 +193,7 @@ There are `654 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>@howard-miller-hekma </td>
 		<td>No Twitter Username</td>
 		<td>Maldives</td>
-		<td>463</td>
+		<td>468</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -484,19 +484,6 @@ There are `654 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>30</td>
 		<td>
-			<a href="https://github.com/islandboymv">
-				<img src="https://avatars.githubusercontent.com/u/90321630?s=72&u=f398859c9ffe2bbf61fab1892111d7d072b89046&v=4" width="24" alt="Avatar of islandboymv"> islandboymv
-			</a><br/>
-			Mifzaal Abdul Baari
-		</td>
-		<td>The Scout Association Of<br/>Maldives<br/></td>
-		<td>No Twitter Username</td>
-		<td>Malé, Maldives</td>
-		<td>72</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>
 			<a href="https://github.com/BlazeMV">
 				<img src="https://avatars.githubusercontent.com/u/24711991?s=72&u=56b996eb33f4076faa8d8fcdce7148da8a45bc05&v=4" width="24" alt="Avatar of BlazeMV"> BlazeMV
 			</a><br/>
@@ -504,6 +491,19 @@ There are `654 users`  in Maldives. You need at least `0 followers` to be on thi
 		</td>
 		<td>Maldives Ports Limited </td>
 		<td><a href="https://twitter.com/blaze_mv">blaze_mv</a></td>
+		<td>Malé, Maldives</td>
+		<td>73</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
+			<a href="https://github.com/islandboymv">
+				<img src="https://avatars.githubusercontent.com/u/90321630?s=72&u=f398859c9ffe2bbf61fab1892111d7d072b89046&v=4" width="24" alt="Avatar of islandboymv"> islandboymv
+			</a><br/>
+			Mifzaal Abdul Baari
+		</td>
+		<td>The Scout Association Of<br/>Maldives<br/></td>
+		<td>No Twitter Username</td>
 		<td>Malé, Maldives</td>
 		<td>72</td>
 	</tr>
@@ -2993,19 +2993,6 @@ There are `654 users`  in Maldives. You need at least `0 followers` to be on thi
 	<tr>
 		<td>223</td>
 		<td>
-			<a href="https://github.com/TheRealFaruhaan">
-				<img src="https://avatars.githubusercontent.com/u/26362259?s=72&u=9e1615b7502703cc80c5fcf0f14221c61f607585&v=4" width="24" alt="Avatar of TheRealFaruhaan"> TheRealFaruhaan
-			</a><br/>
-			Hussain Faruhaan
-		</td>
-		<td>No Company</td>
-		<td><a href="https://twitter.com/TheRealFaruhaan">TheRealFaruhaan</a></td>
-		<td>Maldives</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
 			<a href="https://github.com/youthpolicymv">
 				<img src="https://avatars.githubusercontent.com/u/196768842?s=72&u=27aba34e5ab70a47e12ba9b2ff4ce83622cc5083&v=4" width="24" alt="Avatar of youthpolicymv"> youthpolicymv
 			</a><br/>
@@ -3017,7 +3004,7 @@ There are `654 users`  in Maldives. You need at least `0 followers` to be on thi
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>225</td>
+		<td>224</td>
 		<td>
 			<a href="https://github.com/N4WW4FCM">
 				<img src="https://avatars.githubusercontent.com/u/198873891?s=72&v=4" width="24" alt="Avatar of N4WW4FCM"> N4WW4FCM
@@ -3026,6 +3013,19 @@ There are `654 users`  in Maldives. You need at least `0 followers` to be on thi
 		</td>
 		<td>Exponent Pvt Ltd </td>
 		<td>No Twitter Username</td>
+		<td>Maldives</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>225</td>
+		<td>
+			<a href="https://github.com/TheRealFaruhaan">
+				<img src="https://avatars.githubusercontent.com/u/26362259?s=72&u=9e1615b7502703cc80c5fcf0f14221c61f607585&v=4" width="24" alt="Avatar of TheRealFaruhaan"> TheRealFaruhaan
+			</a><br/>
+			Hussain Faruhaan
+		</td>
+		<td>No Company</td>
+		<td><a href="https://twitter.com/TheRealFaruhaan">TheRealFaruhaan</a></td>
 		<td>Maldives</td>
 		<td>1</td>
 	</tr>
