@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` by users in Bulgaria on `2025/2/24 2:34 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` by users in Bulgaria on `2025/2/24 2:40 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -193,7 +193,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>Dia Soft </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>3409</td>
+		<td>3410</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -440,7 +440,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1430</td>
+		<td>1431</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -622,7 +622,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>1042</td>
+		<td>1043</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -908,7 +908,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>Vm&co </td>
 		<td>No Twitter Username</td>
 		<td>Varna, Bulgaria</td>
-		<td>807</td>
+		<td>809</td>
 	</tr>
 	<tr>
 		<td>63</td>
@@ -1485,6 +1485,19 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 	<tr>
 		<td>107</td>
 		<td>
+			<a href="https://github.com/ikawrakow">
+				<img src="https://avatars.githubusercontent.com/u/48489457?s=72&u=92c964b8f0eb829cee1c130e4a651e14ee4ea77b&v=4" width="24" alt="Avatar of ikawrakow"> ikawrakow
+			</a><br/>
+			Kawrakow
+		</td>
+		<td>Gentleman At Large </td>
+		<td>No Twitter Username</td>
+		<td>Italy & Bulgaria</td>
+		<td>472</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td>
 			<a href="https://github.com/dimitardanailov">
 				<img src="https://avatars.githubusercontent.com/u/2182018?s=72&u=ada2e431a64e8fd6a6f35849f0667082d8631247&v=4" width="24" alt="Avatar of dimitardanailov"> dimitardanailov
 			</a><br/>
@@ -1494,19 +1507,6 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>472</td>
-	</tr>
-	<tr>
-		<td>108</td>
-		<td>
-			<a href="https://github.com/ikawrakow">
-				<img src="https://avatars.githubusercontent.com/u/48489457?s=72&u=92c964b8f0eb829cee1c130e4a651e14ee4ea77b&v=4" width="24" alt="Avatar of ikawrakow"> ikawrakow
-			</a><br/>
-			Kawrakow
-		</td>
-		<td>Gentleman At Large </td>
-		<td>No Twitter Username</td>
-		<td>Italy & Bulgaria</td>
-		<td>471</td>
 	</tr>
 	<tr>
 		<td>109</td>

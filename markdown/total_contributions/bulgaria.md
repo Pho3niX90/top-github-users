@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `public contributions` and `private contributions` by users in Bulgaria on `2025/2/24 2:34 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `public contributions` and `private contributions` by users in Bulgaria on `2025/2/24 2:40 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -187,7 +187,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>2538</td>
-		<td>5200</td>
+		<td>5201</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -285,7 +285,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td><a href="https://twitter.com/rstankov">rstankov</a></td>
 		<td>Sofia, Bulgaria</td>
 		<td>58</td>
-		<td>3583</td>
+		<td>3585</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -298,8 +298,8 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>Dia Soft </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>3409</td>
-		<td>3423</td>
+		<td>3410</td>
+		<td>3424</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -607,7 +607,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>0</td>
-		<td>2422</td>
+		<td>2423</td>
 	</tr>
 	<tr>
 		<td>37</td>
@@ -1278,8 +1278,8 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
-		<td>1430</td>
-		<td>1481</td>
+		<td>1431</td>
+		<td>1482</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1600,8 +1600,8 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
-		<td>1042</td>
-		<td>1253</td>
+		<td>1043</td>
+		<td>1254</td>
 	</tr>
 	<tr>
 		<td>108</td>
@@ -2035,7 +2035,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Plovdiv, Bulgaria</td>
 		<td>19</td>
-		<td>1062</td>
+		<td>1063</td>
 	</tr>
 	<tr>
 		<td>139</td>
@@ -2552,8 +2552,8 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>Vm&co </td>
 		<td>No Twitter Username</td>
 		<td>Varna, Bulgaria</td>
-		<td>807</td>
-		<td>836</td>
+		<td>809</td>
+		<td>838</td>
 	</tr>
 	<tr>
 		<td>176</td>
@@ -3020,20 +3020,6 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 	<tr>
 		<td>209</td>
 		<td>
-			<a href="https://github.com/dimitarvp">
-				<img src="https://avatars.githubusercontent.com/u/463929?s=72&u=cc6bd84e486791488c7b0055fe5196cd443ec2b4&v=4" width="24" alt="Avatar of dimitarvp"> dimitarvp
-			</a><br/>
-			Dimitar Panayotov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Sofia, Bulgaria</td>
-		<td>171</td>
-		<td>708</td>
-	</tr>
-	<tr>
-		<td>210</td>
-		<td>
 			<a href="https://github.com/pgergov">
 				<img src="https://avatars.githubusercontent.com/u/10997689?s=72&u=903ea2a5c76d0124d4fe46f29073f836f13e2592&v=4" width="24" alt="Avatar of pgergov"> pgergov
 			</a><br/>
@@ -3043,6 +3029,20 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
 		<td>3</td>
+		<td>709</td>
+	</tr>
+	<tr>
+		<td>210</td>
+		<td>
+			<a href="https://github.com/dimitarvp">
+				<img src="https://avatars.githubusercontent.com/u/463929?s=72&u=cc6bd84e486791488c7b0055fe5196cd443ec2b4&v=4" width="24" alt="Avatar of dimitarvp"> dimitarvp
+			</a><br/>
+			Dimitar Panayotov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Sofia, Bulgaria</td>
+		<td>171</td>
 		<td>708</td>
 	</tr>
 	<tr>
@@ -3966,8 +3966,8 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>Gentleman At Large </td>
 		<td>No Twitter Username</td>
 		<td>Italy & Bulgaria</td>
-		<td>471</td>
-		<td>481</td>
+		<td>472</td>
+		<td>482</td>
 	</tr>
 	<tr>
 		<td>277</td>
@@ -4401,7 +4401,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Bulgaria</td>
 		<td>8</td>
-		<td>406</td>
+		<td>407</td>
 	</tr>
 	<tr>
 		<td>308</td>

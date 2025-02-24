@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg" alt="Bulgaria">
 </a>
 
-The `number of followers` of users in Bulgaria on `2025/2/24 2:34 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
+The `number of followers` of users in Bulgaria on `2025/2/24 2:40 PM UTC`. This list contains users from `Bulgaria` and cities `Sofia` `Varna` `Plovdiv` `Ruse` `Stara-zagora`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -2018,19 +2018,6 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 	<tr>
 		<td>148</td>
 		<td>
-			<a href="https://github.com/BuddyNotFound">
-				<img src="https://avatars.githubusercontent.com/u/74051918?s=72&u=54cafb71689bd7eac512f74c716d8069459a6bbc&v=4" width="24" alt="Avatar of BuddyNotFound"> BuddyNotFound
-			</a><br/>
-			BuddyBoyVilla
-		</td>
-		<td>Bbv X World </td>
-		<td>No Twitter Username</td>
-		<td>Bulgaria</td>
-		<td>123</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
 			<a href="https://github.com/joshmh">
 				<img src="https://avatars.githubusercontent.com/u/4651?s=72&u=f464d1feb5b4d58cf1d3d5dd3ab9d9a8fe16cade&v=4" width="24" alt="Avatar of joshmh"> joshmh
 			</a><br/>
@@ -2042,7 +2029,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>150</td>
+		<td>149</td>
 		<td>
 			<a href="https://github.com/hristo2612">
 				<img src="https://avatars.githubusercontent.com/u/18407774?s=72&u=55cb5a14adfc3e2fd3666eb23042c35652a5fb2c&v=4" width="24" alt="Avatar of hristo2612"> hristo2612
@@ -2055,7 +2042,7 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>151</td>
+		<td>150</td>
 		<td>
 			<a href="https://github.com/nikoladimitroff">
 				<img src="https://avatars.githubusercontent.com/u/3112182?s=72&u=96c22927e07c2916a69ad2e70016c14f8ba6ed36&v=4" width="24" alt="Avatar of nikoladimitroff"> nikoladimitroff
@@ -2065,6 +2052,19 @@ There are `972 users`  in Bulgaria. You need at least `25 followers` to be on th
 		<td>Ubisoft Sofia </td>
 		<td>No Twitter Username</td>
 		<td>Sofia, Bulgaria</td>
+		<td>122</td>
+	</tr>
+	<tr>
+		<td>151</td>
+		<td>
+			<a href="https://github.com/BuddyNotFound">
+				<img src="https://avatars.githubusercontent.com/u/74051918?s=72&u=54cafb71689bd7eac512f74c716d8069459a6bbc&v=4" width="24" alt="Avatar of BuddyNotFound"> BuddyNotFound
+			</a><br/>
+			BuddyBoyVilla
+		</td>
+		<td>Bbv X World </td>
+		<td>No Twitter Username</td>
+		<td>Bulgaria</td>
 		<td>122</td>
 	</tr>
 	<tr>
