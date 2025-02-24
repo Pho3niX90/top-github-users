@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg" alt="Sierra Leone">
 </a>
 
-The `number of followers` of users in Sierra Leone on `2025/2/22 11:24 PM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
+The `number of followers` of users in Sierra Leone on `2025/2/24 5:02 AM UTC`. This list contains users from `Sierra Leone` and cities `Freetown`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -115,7 +115,7 @@ There are `303 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>Fusesl </td>
 		<td><a href="https://twitter.com/DeeMaejor">DeeMaejor</a></td>
 		<td>Freetown, Sierra Leone</td>
-		<td>223</td>
+		<td>221</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `303 users`  in Sierra Leone. You need at least `0 followers` to be on
 		<td>No Company</td>
 		<td><a href="https://twitter.com/abdullah4tech_">abdullah4tech_</a></td>
 		<td>Freetown, Sierra Leone.</td>
-		<td>89</td>
+		<td>88</td>
 	</tr>
 	<tr>
 		<td>4</td>
