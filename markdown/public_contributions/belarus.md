@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg" alt="Belarus">
 </a>
 
-The `public contributions` by users in Belarus on `2025/2/25 5:42 PM UTC`. This list contains users from `Belarus` and cities `Minsk` `Gomel` `Grodno` `Mogilev` `Brest`.
+The `public contributions` by users in Belarus on `2025/2/25 5:49 PM UTC`. This list contains users from `Belarus` and cities `Minsk` `Gomel` `Grodno` `Mogilev` `Brest`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -414,7 +414,7 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Irex.ai </td>
 		<td>No Twitter Username</td>
 		<td>Minsk, Belarus</td>
-		<td>598</td>
+		<td>599</td>
 	</tr>
 	<tr>
 		<td>25</td>
@@ -843,7 +843,7 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>Sorface </td>
 		<td>No Twitter Username</td>
 		<td>Minsk</td>
-		<td>341</td>
+		<td>342</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -5411,19 +5411,6 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 	<tr>
 		<td>409</td>
 		<td>
-			<a href="https://github.com/feschenko">
-				<img src="https://avatars.githubusercontent.com/u/57315983?s=72&u=3c0348d1de180e9b3a1fe07ab0b5231a9850ae82&v=4" width="24" alt="Avatar of feschenko"> feschenko
-			</a><br/>
-			Kirill Feschenko
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Belarus</td>
-		<td>15</td>
-	</tr>
-	<tr>
-		<td>410</td>
-		<td>
 			<a href="https://github.com/AlexeyShpavda">
 				<img src="https://avatars.githubusercontent.com/u/33182715?s=72&u=8f1451652d10548c163c3e4c946a78f017509ddc&v=4" width="24" alt="Avatar of AlexeyShpavda"> AlexeyShpavda
 			</a><br/>
@@ -5432,6 +5419,19 @@ There are `987 users`  in Belarus. You need at least `12 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Grodno, Belarus</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>410</td>
+		<td>
+			<a href="https://github.com/feschenko">
+				<img src="https://avatars.githubusercontent.com/u/57315983?s=72&u=3c0348d1de180e9b3a1fe07ab0b5231a9850ae82&v=4" width="24" alt="Avatar of feschenko"> feschenko
+			</a><br/>
+			Kirill Feschenko
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Belarus</td>
 		<td>15</td>
 	</tr>
 	<tr>
