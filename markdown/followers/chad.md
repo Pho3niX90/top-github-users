@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/3/2 4:43 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/3/3 9:15 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -115,7 +115,7 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>NDjamena, Chad</td>
-		<td>52</td>
+		<td>53</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -575,19 +575,6 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>37</td>
 		<td>
-			<a href="https://github.com/borkounou">
-				<img src="https://avatars.githubusercontent.com/u/44311725?s=72&u=f3e7725c2819f168cd157a994e692c04593e7ae2&v=4" width="24" alt="Avatar of borkounou"> borkounou
-			</a><br/>
-			Cherif hassan Nousradine
-		</td>
-		<td>Mahrasoft  Innovatin </td>
-		<td><a href="https://twitter.com/borkounou">borkounou</a></td>
-		<td>Ndjamena, Chad</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>
 			<a href="https://github.com/ssougour">
 				<img src="https://avatars.githubusercontent.com/u/47749593?s=72&u=d79e635f0a64ebc14bd611c3f2120ecdec309168&v=4" width="24" alt="Avatar of ssougour"> ssougour
 			</a><br/>
@@ -596,6 +583,19 @@ There are `152 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Self </td>
 		<td><a href="https://twitter.com/ssougour">ssougour</a></td>
 		<td>Chad</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td>
+			<a href="https://github.com/borkounou">
+				<img src="https://avatars.githubusercontent.com/u/44311725?s=72&u=f3e7725c2819f168cd157a994e692c04593e7ae2&v=4" width="24" alt="Avatar of borkounou"> borkounou
+			</a><br/>
+			Cherif hassan Nousradine
+		</td>
+		<td>Mahrasoft  Innovatin </td>
+		<td><a href="https://twitter.com/borkounou">borkounou</a></td>
+		<td>Ndjamena, Chad</td>
 		<td>2</td>
 	</tr>
 	<tr>
