@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea">
 </a>
 
-The `public contributions` and `private contributions` by users in South Korea on `2025/3/3 11:50 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
+The `public contributions` and `private contributions` by users in South Korea on `2025/3/3 11:57 AM UTC`. This list contains users from `South Korea` and cities `Seoul` `Busan` `Incheon` `Daegu` `Ulsan` `Daejeon`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -284,8 +284,8 @@ There are `983 users`  in South Korea. You need at least `104 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
-		<td>5318</td>
-		<td>5383</td>
+		<td>5320</td>
+		<td>5385</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -1363,7 +1363,7 @@ There are `983 users`  in South Korea. You need at least `104 followers` to be o
 		<td>No Twitter Username</td>
 		<td>Korea/Seoul</td>
 		<td>1644</td>
-		<td>2350</td>
+		<td>2351</td>
 	</tr>
 	<tr>
 		<td>91</td>
@@ -3813,7 +3813,7 @@ There are `983 users`  in South Korea. You need at least `104 followers` to be o
 		<td><a href="https://twitter.com/getogrand">getogrand</a></td>
 		<td>Seoul, Republic of Korea</td>
 		<td>95</td>
-		<td>1038</td>
+		<td>1039</td>
 	</tr>
 	<tr>
 		<td>266</td>
@@ -5114,8 +5114,8 @@ There are `983 users`  in South Korea. You need at least `104 followers` to be o
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seoul, South Korea</td>
-		<td>70</td>
-		<td>693</td>
+		<td>71</td>
+		<td>694</td>
 	</tr>
 	<tr>
 		<td>359</td>
