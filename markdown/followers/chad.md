@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg" alt="Chad">
 </a>
 
-The `number of followers` of users in Chad on `2025/3/5 10:51 AM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
+The `number of followers` of users in Chad on `2025/3/6 3:51 PM UTC`. This list contains users from `Chad` and cities `N'djamena` `Moundou` `Sarh` `Abeche`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -328,6 +328,19 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 	<tr>
 		<td>18</td>
 		<td>
+			<a href="https://github.com/CyberBray235">
+				<img src="https://avatars.githubusercontent.com/u/97260352?s=72&u=cf843a2f26bb491b60111b7a277e16943d712308&v=4" width="24" alt="Avatar of CyberBray235"> CyberBray235
+			</a><br/>
+			Bray Madoué KAGONGBE
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>N'Djamena / Tchad</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td>
 			<a href="https://github.com/luapwastaken">
 				<img src="https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4" width="24" alt="Avatar of luapwastaken"> luapwastaken
 			</a><br/>
@@ -339,7 +352,7 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>20</td>
 		<td>
 			<a href="https://github.com/Jens7388">
 				<img src="https://avatars.githubusercontent.com/u/59821392?s=72&u=60fd3a9b911674b23dc925fd44711549acbc9451&v=4" width="24" alt="Avatar of Jens7388"> Jens7388
@@ -352,7 +365,7 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>21</td>
 		<td>
 			<a href="https://github.com/K3maaa">
 				<img src="https://avatars.githubusercontent.com/u/78302221?s=72&u=aa990fdab33afda416708d579e982672d93d6540&v=4" width="24" alt="Avatar of K3maaa"> K3maaa
@@ -365,7 +378,7 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>5</td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>22</td>
 		<td>
 			<a href="https://github.com/beria-kalpelbe">
 				<img src="https://avatars.githubusercontent.com/u/92759844?s=72&u=31bbd7e0cadbc53210558628424b239e02b1e132&v=4" width="24" alt="Avatar of beria-kalpelbe"> beria-kalpelbe
@@ -375,19 +388,6 @@ There are `153 users`  in Chad. You need at least `0 followers` to be on this li
 		<td>Aims South Africa </td>
 		<td><a href="https://twitter.com/beriakalpelbe21">beriakalpelbe21</a></td>
 		<td>NDjamena, Chad</td>
-		<td>4</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/CyberBray235">
-				<img src="https://avatars.githubusercontent.com/u/97260352?s=72&u=cf843a2f26bb491b60111b7a277e16943d712308&v=4" width="24" alt="Avatar of CyberBray235"> CyberBray235
-			</a><br/>
-			Bray Madoué KAGONGBE
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>N'Djamena / Tchad</td>
 		<td>4</td>
 	</tr>
 	<tr>
