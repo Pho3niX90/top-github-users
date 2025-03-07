@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg" alt="Mali">
 </a>
 
-The `public contributions` by users in Mali on `2025/3/5 8:28 PM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
+The `public contributions` by users in Mali on `2025/3/7 3:53 AM UTC`. This list contains users from `Mali` and cities `Bamako` `Timbuktu` `Segou` `Mopti`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -115,7 +115,7 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Yɛlɛman </td>
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
-		<td>1548</td>
+		<td>1553</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -141,7 +141,7 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>Doninya Inc. </td>
 		<td>No Twitter Username</td>
 		<td>Bamako-Mali</td>
-		<td>393</td>
+		<td>394</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -367,6 +367,19 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>21</td>
 		<td>
+			<a href="https://github.com/alkaou">
+				<img src="https://avatars.githubusercontent.com/u/50831171?s=72&u=bf28d1cf18907da500e8c82229f6a08fee533602&v=4" width="24" alt="Avatar of alkaou"> alkaou
+			</a><br/>
+			Alkaou Dit Baba Dembele
+		</td>
+		<td>Mercuryesries </td>
+		<td><a href="https://twitter.com/AlkaouDembele">AlkaouDembele</a></td>
+		<td>Mali (san)</td>
+		<td>80</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td>
 			<a href="https://github.com/moisediarra">
 				<img src="https://avatars.githubusercontent.com/u/8396532?s=72&u=9853ab8664fa202b18c87958e31169c3c339529a&v=4" width="24" alt="Avatar of moisediarra"> moisediarra
 			</a><br/>
@@ -376,19 +389,6 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Mali</td>
 		<td>78</td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>
-			<a href="https://github.com/alkaou">
-				<img src="https://avatars.githubusercontent.com/u/50831171?s=72&u=bf28d1cf18907da500e8c82229f6a08fee533602&v=4" width="24" alt="Avatar of alkaou"> alkaou
-			</a><br/>
-			Alkaou Dit Baba Dembele
-		</td>
-		<td>Mercuryesries </td>
-		<td><a href="https://twitter.com/AlkaouDembele">AlkaouDembele</a></td>
-		<td>Mali (san)</td>
-		<td>76</td>
 	</tr>
 	<tr>
 		<td>23</td>
@@ -640,6 +640,19 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>42</td>
 		<td>
+			<a href="https://github.com/pachaboul">
+				<img src="https://avatars.githubusercontent.com/u/1564860?s=72&u=f034afa55e7d07bd79a396c3d0b0e6e9e0afc440&v=4" width="24" alt="Avatar of pachaboul"> pachaboul
+			</a><br/>
+			Pacha Aboul
+		</td>
+		<td>Smart Yiriba </td>
+		<td>No Twitter Username</td>
+		<td>Osaka & Bamako</td>
+		<td>37</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td>
 			<a href="https://github.com/Cvolaille">
 				<img src="https://avatars.githubusercontent.com/u/185441304?s=72&v=4" width="24" alt="Avatar of Cvolaille"> Cvolaille
 			</a><br/>
@@ -649,19 +662,6 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Mali Bougouni </td>
 		<td>37</td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>
-			<a href="https://github.com/pachaboul">
-				<img src="https://avatars.githubusercontent.com/u/1564860?s=72&u=f034afa55e7d07bd79a396c3d0b0e6e9e0afc440&v=4" width="24" alt="Avatar of pachaboul"> pachaboul
-			</a><br/>
-			Pacha Aboul
-		</td>
-		<td>Smart Yiriba </td>
-		<td>No Twitter Username</td>
-		<td>Osaka & Bamako</td>
-		<td>36</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -757,6 +757,19 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>51</td>
 		<td>
+			<a href="https://github.com/BAGA07">
+				<img src="https://avatars.githubusercontent.com/u/89977886?s=72&u=bd53ab4726c153ba1598e983c6a026df597737cc&v=4" width="24" alt="Avatar of BAGA07"> BAGA07
+			</a><br/>
+			Aboubacar Arouna BAGAYOKO
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako/Mali</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
 			<a href="https://github.com/vandji1">
 				<img src="https://avatars.githubusercontent.com/u/17184105?s=72&v=4" width="24" alt="Avatar of vandji1"> vandji1
 			</a><br/>
@@ -768,7 +781,7 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>52</td>
+		<td>53</td>
 		<td>
 			<a href="https://github.com/ibrahimkelly">
 				<img src="https://avatars.githubusercontent.com/u/94073143?s=72&u=f68311e8fbc7622641ed53251e915892e29cb850&v=4" width="24" alt="Avatar of ibrahimkelly"> ibrahimkelly
@@ -781,7 +794,7 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>53</td>
+		<td>54</td>
 		<td>
 			<a href="https://github.com/dione24">
 				<img src="https://avatars.githubusercontent.com/u/10039997?s=72&v=4" width="24" alt="Avatar of dione24"> dione24
@@ -794,7 +807,7 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>54</td>
+		<td>55</td>
 		<td>
 			<a href="https://github.com/Aissatha">
 				<img src="https://avatars.githubusercontent.com/u/151942027?s=72&v=4" width="24" alt="Avatar of Aissatha"> Aissatha
@@ -807,7 +820,7 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>55</td>
+		<td>56</td>
 		<td>
 			<a href="https://github.com/Ifiboys">
 				<img src="https://avatars.githubusercontent.com/u/148552025?s=72&u=f278bf8eb4ed1521d584e25cf2f7d0fb70a5a707&v=4" width="24" alt="Avatar of Ifiboys"> Ifiboys
@@ -820,7 +833,7 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>56</td>
+		<td>57</td>
 		<td>
 			<a href="https://github.com/Mohamed-ux-lab">
 				<img src="https://avatars.githubusercontent.com/u/79372986?s=72&u=98d94e575735323c9bb09136c9c52c0d5b5e4e64&v=4" width="24" alt="Avatar of Mohamed-ux-lab"> Mohamed-ux-lab
@@ -831,19 +844,6 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Twitter Username</td>
 		<td>Bamako, Mali</td>
 		<td>27</td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>
-			<a href="https://github.com/BAGA07">
-				<img src="https://avatars.githubusercontent.com/u/89977886?s=72&u=bd53ab4726c153ba1598e983c6a026df597737cc&v=4" width="24" alt="Avatar of BAGA07"> BAGA07
-			</a><br/>
-			Aboubacar Arouna BAGAYOKO
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako/Mali</td>
-		<td>26</td>
 	</tr>
 	<tr>
 		<td>58</td>
@@ -1732,19 +1732,6 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 	<tr>
 		<td>126</td>
 		<td>
-			<a href="https://github.com/yelensoft">
-				<img src="https://avatars.githubusercontent.com/u/155452936?s=72&u=d31f1b19bbbc12b48f703425e09572f357e21305&v=4" width="24" alt="Avatar of yelensoft"> yelensoft
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Bamako, Mali</td>
-		<td>3</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
 			<a href="https://github.com/kv5t">
 				<img src="https://avatars.githubusercontent.com/u/123513219?s=72&u=11f7a2df38da274db26f9995a52ae1f9831f85ff&v=4" width="24" alt="Avatar of kv5t"> kv5t
 			</a><br/>
@@ -1753,6 +1740,19 @@ There are `495 users`  in Mali. You need at least `0 followers` to be on this li
 		<td>No Company</td>
 		<td><a href="https://twitter.com/kastsofresh">kastsofresh</a></td>
 		<td>Mopti</td>
+		<td>3</td>
+	</tr>
+	<tr>
+		<td>127</td>
+		<td>
+			<a href="https://github.com/yelensoft">
+				<img src="https://avatars.githubusercontent.com/u/155452936?s=72&u=d31f1b19bbbc12b48f703425e09572f357e21305&v=4" width="24" alt="Avatar of yelensoft"> yelensoft
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Bamako, Mali</td>
 		<td>3</td>
 	</tr>
 	<tr>
