@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg" alt="Finland">
 </a>
 
-The `public contributions` and `private contributions` by users in Finland on `2025/3/10 8:41 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
+The `public contributions` and `private contributions` by users in Finland on `2025/3/10 8:47 AM UTC`. This list contains users from `Finland` and cities `Helsinki` `Tampere` `Oulu` `Espoo` `Vantaa`.
 
 There are `138 countries` and `674 cities` can be found [here](https://github.com/Pho3niX90/top-github-users).
 
@@ -229,7 +229,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td><a href="https://twitter.com/xizzhu">xizzhu</a></td>
 		<td>Finland</td>
 		<td>2</td>
-		<td>3929</td>
+		<td>3930</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -452,8 +452,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>@ericsson </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>2336</td>
-		<td>2813</td>
+		<td>2338</td>
+		<td>2815</td>
 	</tr>
 	<tr>
 		<td>26</td>
@@ -466,8 +466,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td><a href="https://twitter.com/hihyyrylainen">hihyyrylainen</a></td>
 		<td>Finland</td>
-		<td>2422</td>
-		<td>2812</td>
+		<td>2423</td>
+		<td>2813</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -984,8 +984,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>@reaktor  </td>
 		<td>No Twitter Username</td>
 		<td>Turku, Finland</td>
-		<td>1857</td>
-		<td>1942</td>
+		<td>1858</td>
+		<td>1943</td>
 	</tr>
 	<tr>
 		<td>64</td>
@@ -1335,7 +1335,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Helsinki</td>
 		<td>604</td>
-		<td>1622</td>
+		<td>1623</td>
 	</tr>
 	<tr>
 		<td>89</td>
@@ -1684,8 +1684,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>@grafana  </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland </td>
-		<td>667</td>
-		<td>1479</td>
+		<td>668</td>
+		<td>1480</td>
 	</tr>
 	<tr>
 		<td>114</td>
@@ -2208,20 +2208,6 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 	<tr>
 		<td>151</td>
 		<td>
-			<a href="https://github.com/eemeli">
-				<img src="https://avatars.githubusercontent.com/u/617000?s=72&u=444f1f3af7f90878cc20be018673336add943dd7&v=4" width="24" alt="Avatar of eemeli"> eemeli
-			</a><br/>
-			Eemeli Aro
-		</td>
-		<td>@mozilla </td>
-		<td><a href="https://twitter.com/eemeli_aro">eemeli_aro</a></td>
-		<td>Helsinki, Finland</td>
-		<td>1244</td>
-		<td>1272</td>
-	</tr>
-	<tr>
-		<td>152</td>
-		<td>
 			<a href="https://github.com/rap1ds">
 				<img src="https://avatars.githubusercontent.com/u/429876?s=72&v=4" width="24" alt="Avatar of rap1ds"> rap1ds
 			</a><br/>
@@ -2231,6 +2217,20 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
 		<td>110</td>
+		<td>1273</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
+			<a href="https://github.com/eemeli">
+				<img src="https://avatars.githubusercontent.com/u/617000?s=72&u=444f1f3af7f90878cc20be018673336add943dd7&v=4" width="24" alt="Avatar of eemeli"> eemeli
+			</a><br/>
+			Eemeli Aro
+		</td>
+		<td>@mozilla </td>
+		<td><a href="https://twitter.com/eemeli_aro">eemeli_aro</a></td>
+		<td>Helsinki, Finland</td>
+		<td>1244</td>
 		<td>1272</td>
 	</tr>
 	<tr>
@@ -2342,8 +2342,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>@upcloudltd  </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>1227</td>
-		<td>1227</td>
+		<td>1228</td>
+		<td>1228</td>
 	</tr>
 	<tr>
 		<td>161</td>
@@ -2664,8 +2664,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>@haagahelia </td>
 		<td>No Twitter Username</td>
 		<td>Helsinki, Finland</td>
-		<td>1064</td>
-		<td>1078</td>
+		<td>1066</td>
+		<td>1080</td>
 	</tr>
 	<tr>
 		<td>184</td>
@@ -3560,8 +3560,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>@haagahelia </td>
 		<td>No Twitter Username</td>
 		<td>Finland</td>
-		<td>518</td>
-		<td>807</td>
+		<td>519</td>
+		<td>808</td>
 	</tr>
 	<tr>
 		<td>248</td>
@@ -5058,8 +5058,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Remote <- Helsinki <- Vancouver BC</td>
-		<td>483</td>
-		<td>483</td>
+		<td>484</td>
+		<td>484</td>
 	</tr>
 	<tr>
 		<td>355</td>
@@ -6374,8 +6374,8 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>Jetbrains </td>
 		<td>No Twitter Username</td>
 		<td>Turku, Finland</td>
-		<td>244</td>
-		<td>312</td>
+		<td>245</td>
+		<td>313</td>
 	</tr>
 	<tr>
 		<td>449</td>
@@ -10566,6 +10566,20 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 	<tr>
 		<td>748</td>
 		<td>
+			<a href="https://github.com/LauraKokkarinen">
+				<img src="https://avatars.githubusercontent.com/u/41330990?s=72&u=32768d823936b3a0658dc4416ac3d25cb1c271ad&v=4" width="24" alt="Avatar of LauraKokkarinen"> LauraKokkarinen
+			</a><br/>
+			Laura Kokkarinen
+		</td>
+		<td>Sulava </td>
+		<td>No Twitter Username</td>
+		<td>Finland</td>
+		<td>18</td>
+		<td>18</td>
+	</tr>
+	<tr>
+		<td>749</td>
+		<td>
 			<a href="https://github.com/LauriM">
 				<img src="https://avatars.githubusercontent.com/u/79436?s=72&u=b22e73f9131b16b7190269fe767d7a2b8dbc8c4d&v=4" width="24" alt="Avatar of LauriM"> LauriM
 			</a><br/>
@@ -10578,7 +10592,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a href="https://github.com/UmerSharif">
 				<img src="https://avatars.githubusercontent.com/u/7606310?s=72&u=243ac3a446363814aa6b1d47d31d528261061d2d&v=4" width="24" alt="Avatar of UmerSharif"> UmerSharif
@@ -10592,7 +10606,7 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a href="https://github.com/vaahtokarkki">
 				<img src="https://avatars.githubusercontent.com/u/12064374?s=72&u=66542d725d25fa1e499a55bab08437b709211b02&v=4" width="24" alt="Avatar of vaahtokarkki"> vaahtokarkki
@@ -10604,20 +10618,6 @@ There are `933 users`  in Finland. You need at least `46 followers` to be on thi
 		<td>Finland</td>
 		<td>6</td>
 		<td>18</td>
-	</tr>
-	<tr>
-		<td>751</td>
-		<td>
-			<a href="https://github.com/LauraKokkarinen">
-				<img src="https://avatars.githubusercontent.com/u/41330990?s=72&u=32768d823936b3a0658dc4416ac3d25cb1c271ad&v=4" width="24" alt="Avatar of LauraKokkarinen"> LauraKokkarinen
-			</a><br/>
-			Laura Kokkarinen
-		</td>
-		<td>Sulava </td>
-		<td>No Twitter Username</td>
-		<td>Finland</td>
-		<td>17</td>
-		<td>17</td>
 	</tr>
 	<tr>
 		<td>752</td>
